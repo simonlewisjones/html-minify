@@ -1,0 +1,5 @@
+{
+  "name": "html-minify",
+  "description": "Minify HTML for Wordpress",
+  "type": "wordpress-plugin"
+}
